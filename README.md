@@ -8,4 +8,6 @@ in this repo you can see how 2:1 mux are used to realize a d flipflop
 
 negative edged D flip flop   [ff_using_mux]
 
-positive edge D flip flop    [pos_edge_ff_using_mux].
+positive edge D flip flop    [pos_edge_ff_using_mux]
+
+and also Latch   [latch_using_mux]
